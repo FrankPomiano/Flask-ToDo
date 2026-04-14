@@ -1,5 +1,6 @@
 {
     "family": "flask-task",
+    "executionRoleArn": "arn:aws:iam::314431780935:role/ecsTaskExecutionRole",
     "containerDefinitions": [
         {
             "name": "flask-container",
